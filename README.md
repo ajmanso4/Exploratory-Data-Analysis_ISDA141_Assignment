@@ -4,7 +4,7 @@ Exploratory Data Analysis involving Data Processing, Univariate, Bivariate, and 
 ## Tools Used:
   * pandas
   * seaborn (predominantly)
-  * matplotlib.
+  * matplotlib
 
 Source Dataset: in the vgsales.csv file above, from class (16,600 records)
 
