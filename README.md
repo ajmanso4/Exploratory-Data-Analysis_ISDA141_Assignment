@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis_ISDA141_Assignment - WIP README
 Exploratory Data Analysis involving Data Processing, Univariate, Bivariate, and Multivariate Analysis and Visualization using pandas, seaborn. and matplotlib.
 
+Source: in the vgsales.csv file above, from class
+
 Exploratory Data Analysis involving:
   * Histograms
   * Box Plots
